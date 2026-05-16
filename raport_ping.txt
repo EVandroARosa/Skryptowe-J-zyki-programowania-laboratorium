@@ -1,0 +1,5 @@
+﻿--- PODSUMOWANIE RUCHU DLA HOSTA: 8.8.8.8 ---
+Wyslano pakietow: 4
+Odebrano pakietow: 4
+Ilosc bledow: 0
+Status: komunikacja sprawna (100% odebranych)
