@@ -1,2 +1,2 @@
 # Skryptowe-J-zyki-programowania-laboratorium
-![Drzewo procesów htop](zadanie6a1.png_zadanie6a2.png)
+![zadanie6a1 zadanie6a2](zadanie6a1.png_zadanie6a2.png)
